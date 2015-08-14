@@ -3,7 +3,7 @@
 
 El objetivo principal de este <i>proyecto-comunidad</i>, es ahorrar tiempo y esfuerzo al momento de llevar a cabo determiandas acciones dentro de la cuenta. Completamente seguro, sin ánimos de lucro, sin limitaciones.
 
-Para ejecutar cualquier acción, debe hacerse desde la Consola JS del navegador de su preferencia <i>(Recomendamo siempre usar Google Chrome)</i>.
+Para ejecutar cualquier acción, debe hacerse desde la Consola JS del navegador de su preferencia <i>(Recomendamos siempre usar Google Chrome)</i>.
 
 <h4>Dejar de seguir aquellos que no te siguen de vuelta:</h4>
 <code>
